@@ -9,6 +9,12 @@ The deployed version can be found at https://lab3-docker.herokuapp.com.
 ## Activity 2 Screenshot
 ![A2](images/A2.PNG)
 
+## Activity 3 Screenshot
+![A3](images/A3.PNG)
+
+## Activity 4 Screenshot
+![A4](images/A4.PNG)
+
 ## Changes
 + Removed hardcodes of backend urls.
 + Removed hardcodes of database, and replace the database with dummy static data.
